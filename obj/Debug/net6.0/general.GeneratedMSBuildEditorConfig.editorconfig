@@ -5,64 +5,65 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = general
 build_property.RootNamespace = general
-build_property.ProjectDir = D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\
+build_property.ProjectDir = C:\Users\Arvin\Desktop\general\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Developed\کامپیوتر بیمارستان2\nbt_software\general
+build_property.MSBuildProjectDirectory = C:\Users\Arvin\Desktop\general
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/sabts/Create.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/sabts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FidHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/sabts/Delete.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/sabts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FidHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/sabts/Details.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/sabts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FidHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/sabts/Edit.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/sabts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FidHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/sabts/Index.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/sabts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FidHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/sabts/login.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/sabts/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FidHNcbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/Shared/Error.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/Shared/_LayoutMain.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/Shared/_LayoutMain.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/Shared/_LayoutUser.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/_ViewImports.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/_ViewStart.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Developed/کامپیوتر بیمارستان2/nbt_software/general/Views/Shared/_Layout.cshtml]
+[C:/Users/Arvin/Desktop/general/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-top89udaw3

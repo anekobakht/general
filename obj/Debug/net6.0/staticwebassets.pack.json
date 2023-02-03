@@ -1,0 +1,2149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\general.bundle.scp.css",
+      "PackagePath": "staticwebassets\\general.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\ahdaf1.jpg",
+      "PackagePath": "staticwebassets\\Img\\ahdaf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\ahdaf3.jpg",
+      "PackagePath": "staticwebassets\\Img\\ahdaf3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\amuzesh.jpg",
+      "PackagePath": "staticwebassets\\Img\\amuzesh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\azmoon.jpg",
+      "PackagePath": "staticwebassets\\Img\\azmoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\back_general.jpg",
+      "PackagePath": "staticwebassets\\Img\\back_general.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\background.jpg",
+      "PackagePath": "staticwebassets\\Img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\background1.jpg",
+      "PackagePath": "staticwebassets\\Img\\background1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\cursor11.gif",
+      "PackagePath": "staticwebassets\\Img\\cursor11.gif"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\email.jpg",
+      "PackagePath": "staticwebassets\\Img\\email.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\fax.jpg",
+      "PackagePath": "staticwebassets\\Img\\fax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\helpDesk.jpg",
+      "PackagePath": "staticwebassets\\Img\\helpDesk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\him.jpg",
+      "PackagePath": "staticwebassets\\Img\\him.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\hirad_logo.png",
+      "PackagePath": "staticwebassets\\Img\\hirad_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\hospital.jpg",
+      "PackagePath": "staticwebassets\\Img\\hospital.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\icons\\144x144.png",
+      "PackagePath": "staticwebassets\\Img\\icons\\144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\icons\\168x168.png",
+      "PackagePath": "staticwebassets\\Img\\icons\\168x168.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\icons\\192x192.png",
+      "PackagePath": "staticwebassets\\Img\\icons\\192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\icons\\512x512.png",
+      "PackagePath": "staticwebassets\\Img\\icons\\512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\karkonan.jpg",
+      "PackagePath": "staticwebassets\\Img\\karkonan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\learn.jpg",
+      "PackagePath": "staticwebassets\\Img\\learn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\loader.gif",
+      "PackagePath": "staticwebassets\\Img\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\login_img1.jpg",
+      "PackagePath": "staticwebassets\\Img\\login_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\logo_hirad.gif",
+      "PackagePath": "staticwebassets\\Img\\logo_hirad.gif"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\moavenat_darman.jpg",
+      "PackagePath": "staticwebassets\\Img\\moavenat_darman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\modiran.jpg",
+      "PackagePath": "staticwebassets\\Img\\modiran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\mosavabat.jpg",
+      "PackagePath": "staticwebassets\\Img\\mosavabat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\never.jpg",
+      "PackagePath": "staticwebassets\\Img\\never.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\never_uni.jpg",
+      "PackagePath": "staticwebassets\\Img\\never_uni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\office.jpg",
+      "PackagePath": "staticwebassets\\Img\\office.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\phone.png",
+      "PackagePath": "staticwebassets\\Img\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\pishnahad.jpg",
+      "PackagePath": "staticwebassets\\Img\\pishnahad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\refahi.jpg",
+      "PackagePath": "staticwebassets\\Img\\refahi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\shafa.jpg",
+      "PackagePath": "staticwebassets\\Img\\shafa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\sms.jpg",
+      "PackagePath": "staticwebassets\\Img\\sms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\suggest_vezarat.jpg",
+      "PackagePath": "staticwebassets\\Img\\suggest_vezarat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\timex.jpg",
+      "PackagePath": "staticwebassets\\Img\\timex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\vezarat_behdasht.jpg",
+      "PackagePath": "staticwebassets\\Img\\vezarat_behdasht.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\zang_salamat.jpg",
+      "PackagePath": "staticwebassets\\Img\\zang_salamat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\Img\\آموزش به بیمار.jpg",
+      "PackagePath": "staticwebassets\\Img\\آموزش به بیمار.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\License.pdf",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\License.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\README.txt",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\Useful_Resources.pdf",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\Useful_Resources.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\cards-extended.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\cards-extended.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\cards-extended.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\cards-extended.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\chat.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\chat.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\chat.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\chat.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\multi-range.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\multi-range.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\multi-range.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\multi-range.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\simple-charts.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\simple-charts.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\simple-charts.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\simple-charts.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\steppers.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\steppers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\steppers.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\steppers.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\timeline.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\timeline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons-pro\\timeline.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons-pro\\timeline.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables-select.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables-select.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables-select.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables-select2.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables-select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables-select2.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables-select2.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables2.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\datatables2.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\datatables2.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\directives.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\directives.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\directives.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\directives.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\flag.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\flag.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\flag.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\flag.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\jquery.zmd.hierarchical-display.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\jquery.zmd.hierarchical-display.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\jquery.zmd.hierarchical-display.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\jquery.zmd.hierarchical-display.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\rating.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\rating.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\addons\\rating.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\addons\\rating.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\mdb.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\mdb.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\mdb.lite.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\mdb.lite.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\mdb.lite.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\mdb.lite.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\mdb.lite.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\mdb.lite.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\mdb.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\mdb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\mdb.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\mdb.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\accordion-extended.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\accordion-extended.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\accordion-extended.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\accordion-extended.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\animations-extended.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\animations-extended.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\animations-extended.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\animations-extended.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\lightbox.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\lightbox.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\megamenu.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\megamenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\megamenu.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\megamenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\parallax.min.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\parallax.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\modules\\parallax.min.css.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\modules\\parallax.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\css\\style.css",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\lightbox\\default-skin.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\lightbox\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\lightbox\\default-skin.svg",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\lightbox\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\lightbox\\preloader.gif",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\lightbox\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\mdb-favicon.ico",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\mdb-favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\01.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\02.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\03.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\04.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\05.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\06.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\07.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\08.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\overlays\\09.png",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\overlays\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\svg\\arrow_left.svg",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\svg\\arrow_left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\img\\svg\\arrow_right.svg",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\img\\svg\\arrow_right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\index.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\cards-extended.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\cards-extended.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\cards-extended.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\cards-extended.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\chat.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\chat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\chat.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\chat.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\multi-range.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\multi-range.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\multi-range.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\multi-range.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\simple-charts.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\simple-charts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\simple-charts.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\simple-charts.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\steppers.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\steppers.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\steppers.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\steppers.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\timeline.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\timeline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons-pro\\timeline.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons-pro\\timeline.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables-select.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables-select.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables-select.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables-select2.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables-select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables-select2.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables-select2.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables2.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\datatables2.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\datatables2.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\directives.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\directives.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\directives.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\directives.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\flag.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\flag.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\flag.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\flag.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\imagesloaded.pkgd.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\imagesloaded.pkgd.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\jquery.zmd.hierarchical-display.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\jquery.zmd.hierarchical-display.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\jquery.zmd.hierarchical-display.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\jquery.zmd.hierarchical-display.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\masonry.pkgd.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\masonry.pkgd.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\rating.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\rating.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\addons\\rating.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\addons\\rating.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\mdb.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\mdb.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\mdb.lite.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\mdb.lite.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\mdb.lite.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\mdb.lite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\mdb.lite.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\mdb.lite.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\mdb.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\mdb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\mdb.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\mdb.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\accordion-extended.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\accordion-extended.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\accordion-extended.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\accordion-extended.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\animations-extended.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\animations-extended.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\animations-extended.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\animations-extended.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\buttons.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\buttons.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\buttons.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\cards.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\cards.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\cards.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\cards.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\character-counter.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\character-counter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\character-counter.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\character-counter.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\chips.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\chips.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\chips.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\chips.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\collapsible.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\collapsible.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\collapsible.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\collapsible.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown-searchable.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown-searchable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown-searchable.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown-searchable.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\dropdown\\dropdown.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\file-input.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\file-input.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\file-input.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\file-input.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\forms-free.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\forms-free.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\forms-free.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\forms-free.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\lightbox.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\lightbox.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view-renderer.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view-renderer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view-renderer.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view-renderer.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select-view.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\material-select\\material-select.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\mdb-autocomplete.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\mdb-autocomplete.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\mdb-autocomplete.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\mdb-autocomplete.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\megamenu.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\megamenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\megamenu.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\megamenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\parallax.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\parallax.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\parallax.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\preloading.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\preloading.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\preloading.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\preloading.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\range-input.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\range-input.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\range-input.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\range-input.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\scrolling-navbar.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\scrolling-navbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\scrolling-navbar.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\scrolling-navbar.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\sidenav.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\sidenav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\sidenav.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\sidenav.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\smooth-scroll.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\smooth-scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\smooth-scroll.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\smooth-scroll.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\sticky.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\sticky.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\sticky.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\treeview.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\treeview.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\treeview.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\treeview.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\wow.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\modules\\wow.min.js.map",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\modules\\wow.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\popper.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\mdb-addons\\mdb-lightbox-ui.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\mdb-addons\\mdb-lightbox-ui.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\mdb-addons\\preloader.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\mdb-addons\\preloader.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\_custom-skin.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\_custom-skin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\_custom-styles.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\_custom-styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\_custom-variables.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\_custom-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\_cards-extended.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\_cards-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\_chat.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\_chat.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\_multi-range.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\_multi-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\_steppers.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\_steppers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\_timeline.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\_vector-map.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\_vector-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\charts\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\charts\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons-pro\\charts\\charts.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons-pro\\charts\\charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_datatables-select.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_datatables-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_datatables-select2.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_datatables-select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_datatables.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_datatables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_datatables2.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_datatables2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_directives.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_directives.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_flag.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_flag.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_hierarchical-display.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_hierarchical-display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\addons\\_rating.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\addons\\_rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_colors.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_global.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_helpers.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_masks.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_masks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_mixins.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_typography.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_variables.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\_waves.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\_waves.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\bootstrap\\_rfs.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\bootstrap\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\core\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\core\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_animations-basic.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_animations-basic.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_badges.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_cards.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_carousels.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_carousels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_depreciated.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_depreciated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_footers.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_forms.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_input-group.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_list-group.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_loader.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_modals.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_msc.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_msc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_navbars.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_pagination.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_steppers.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_steppers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_tables.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\_treeview.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\_treeview.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\modules\\animations-extended\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\modules\\animations-extended\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\free\\modules\\animations-extended\\animations-extended.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\free\\modules\\animations-extended\\animations-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\mdb-free.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\mdb-free.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\mdb-lite-free.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\mdb-lite-free.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\mdb-lite-pro.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\mdb-lite-pro.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\mdb-pro.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\mdb-pro.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_accordion-basic.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_accordion-basic.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_animations.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_autocomplete.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_autocomplete.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_blog.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_buttons.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_cards-basic.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_cards-basic.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_carousels.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_carousels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_checkbox.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_checkbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_chips.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_chips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_depreciated.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_depreciated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_ecommerce.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_ecommerce.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_file-input.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_file-input.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_forms.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_input-group.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_material-select.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_material-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_mixins.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_msc.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_msc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_navbars.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_progress.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_radio.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_range.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_scrollspy.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_scrollspy.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_sidenav.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_sidenav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_sidenav2.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_sidenav2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_skins.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_skins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_switch.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_tabs.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_toasts.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\_variables.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\accordion-extended\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\accordion-extended\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\accordion-extended\\accordion-extended.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\accordion-extended\\accordion-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\lightbox\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\lightbox\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\lightbox\\lightbox.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\lightbox\\lightbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\megamenu\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\megamenu\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\megamenu\\megamenu.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\megamenu\\megamenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\parallax\\_module.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\parallax\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\modules\\parallax\\parallax.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\modules\\parallax\\parallax.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\picker\\_default-date.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\picker\\_default-date.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\picker\\_default-time.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\picker\\_default-time.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\picker\\_default.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\picker\\_default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_contacts.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_contacts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_magazine.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_magazine.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_pricing.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_social.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_social.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_team.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_templates.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_templates.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\scss\\pro\\sections\\_testimonials.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\free\\forms-free.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\free\\forms-free.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\free\\scrolling-navbar.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\free\\scrolling-navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\free\\treeview.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\free\\treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\free\\wow.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\free\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\buttons.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\cards.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\cards.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\character-counter.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\character-counter.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\chips.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\chips.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\collapsible.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\collapsible.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\dropdown\\dropdown-searchable.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\dropdown\\dropdown-searchable.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\dropdown\\dropdown.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\dropdown\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\file-input.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\file-input.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\material-select\\material-select-view-renderer.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\material-select\\material-select-view-renderer.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\material-select\\material-select-view.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\material-select\\material-select-view.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\material-select\\material-select.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\material-select\\material-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\mdb-autocomplete.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\mdb-autocomplete.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\picker-date.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\picker-date.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\picker-time.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\picker-time.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\picker.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\picker.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\preloading.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\preloading.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\range-input.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\range-input.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\sidenav.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\sidenav.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\sidenav2.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\sidenav2.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\pro\\sticky.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\pro\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\chat.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\multi-range.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\multi-range.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\simple-charts.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\simple-charts.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\steppers.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\steppers.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\timeline.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons-pro\\timeline.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables-select.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables-select2.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables-select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables2.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\datatables2.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\jquery.zmd.hierarchical-display.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\jquery.zmd.hierarchical-display.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\rating.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\addons\\rating.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\bs-custom-file-input.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\bs-custom-file-input.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\chart.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\chartjs-datalabels.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\chartjs-datalabels.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\enhanced-modals.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\enhanced-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\velocity.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\velocity.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\waves.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\free\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\jarallax-video.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\jarallax-video.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\jarallax.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\lightbox.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\ofi.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\ofi.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker-date-time.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker-date-time.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker-date.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker-date.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker-time.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker-time.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\picker.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\scrollbar.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\toastr.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\vector-map-world-mill.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\vector-map-world-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\vector-map.js",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\src\\js\\vendor\\pro\\vector-map.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\about-us.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\blog-post.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\blog-post.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\blog-posts.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\blog-posts.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\contact-us.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\contact-us.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\ecommerce.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\ecommerce.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\landing-page.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\landing-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\login-page.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\login-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\pricing.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\profile-page.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\profile-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\MDB-Pro_4.19.1\\templates\\signup-page.html",
+      "PackagePath": "staticwebassets\\MDB-Pro_4.19.1\\templates\\signup-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\PersianDate\\PersianDatePicker.css",
+      "PackagePath": "staticwebassets\\PersianDate\\PersianDatePicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\PersianDate\\PersianDatePicker.js",
+      "PackagePath": "staticwebassets\\PersianDate\\PersianDatePicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\PersianDate\\PersianDatePicker.min.css",
+      "PackagePath": "staticwebassets\\PersianDate\\PersianDatePicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\PersianDate\\PersianDatePicker.min.js",
+      "PackagePath": "staticwebassets\\PersianDate\\PersianDatePicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\blog-posts.html",
+      "PackagePath": "staticwebassets\\blog-posts.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\favicon1.ico",
+      "PackagePath": "staticwebassets\\favicon1.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\font_nbt\\font_nbt.ttf",
+      "PackagePath": "staticwebassets\\font_nbt\\font_nbt.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\input_mask\\inputmask.js",
+      "PackagePath": "staticwebassets\\input_mask\\inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\input_mask\\inputmask.min.js",
+      "PackagePath": "staticwebassets\\input_mask\\inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\input_mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\input_mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\input_mask\\jquery.inputmask.min.js",
+      "PackagePath": "staticwebassets\\input_mask\\jquery.inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\.gitignore",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\.ruby-version",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\.ruby-version"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\Dockerfile",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\LICENSE",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\README.md",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\bower.json",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\component.json",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\composer.json",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\deploy.rb",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\deploy.rb"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\docker-compose.yml",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\docker-compose.yml"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\package-lock.json",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\package.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\package.json",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\src\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\src\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\jquery.mask.test.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\jquery.mask.test.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\qunit.css",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\qunit.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\qunit.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\sinon-1.10.3.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\sinon-1.10.3.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\sinon-qunit-1.0.0.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\sinon-qunit-1.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\sinon-qunit.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\sinon-qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.11.1.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.11.1.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.7.2.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.7.2.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.8.3.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.8.3.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.9.1.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.9.1.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-2.1.1.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-2.1.1.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-3.0.0.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-3.0.0.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\test-for-zepto.html",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\test-for-zepto.html"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\zepto\\data.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\zepto\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\zepto\\event.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\zepto\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\jQuery-Mask-Plugin-master\\test\\zepto\\zepto.min.js",
+      "PackagePath": "staticwebassets\\jQuery-Mask-Plugin-master\\test\\zepto\\zepto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Arvin\\Desktop\\general\\wwwroot\\zang_salamat\\ZangSalamat.msi",
+      "PackagePath": "staticwebassets\\zang_salamat\\ZangSalamat.msi"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.general.props",
+      "PackagePath": "build\\general.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.general.props",
+      "PackagePath": "buildMultiTargeting\\general.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.general.props",
+      "PackagePath": "buildTransitive\\general.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.general.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
