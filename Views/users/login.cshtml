@@ -1,0 +1,508 @@
+﻿@*@model pishnahad.Models.user*@
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en" class="">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Days of Hospitalization</title>
+
+    <!-- Font Awesome -->
+    <link href="~/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    @* <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">*@
+    <!-- Bootstrap core CSS -->
+    <link href="~/MDB-Pro_4.19.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/MDB-Pro_4.19.1/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="~/MDB-Pro_4.19.1/css/mdb.min.css" rel="stylesheet">
+
+
+    <style>
+        html,
+        body,
+        header,
+        .jarallax {
+            height: 100%;
+        }
+
+        h1 {
+            letter-spacing: 2px;
+        }
+
+        h5 {
+            letter-spacing: 2px;
+        }
+
+        .hr-light {
+            border-top: 3px solid #fff;
+            width: 80px;
+        }
+
+        footer.page-footer {
+            background-color: #6f7782 !important;
+        }
+
+        .collapse.navbar-collapse {
+            direction: rtl !important;
+        }
+
+        #hirad_logo {
+            width: 150px;
+            height: 150px;
+        }
+
+        .btn:hover{
+            color:red !important;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding-right: 50px;
+        }
+
+        .bg {
+            /* The image used */
+            background-image: url("../Img/loader.gif");
+            /* Full height */
+            height: 100%;
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+        }
+        body{
+            /*bottom:-2000px;*/
+            transform:scale(0);
+        }
+        
+    </style>
+
+</head>
+
+
+<body style="position:relative">
+
+    <div class="cursor"></div>
+    @if (ViewBag.er_auth == "1")
+    {
+        <script>
+            alert("نام کاربری یا کلمه عبور نادرست می باشد")
+        </script>
+    }
+
+    @*modal*@
+<form asp-action="login">
+    
+    <div class="modal fade" id="modal_form" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-white bg-primary text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">احراز هویت</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-5">
+                        <i class="fa fa-user prefix grey-text"></i>
+                        <input asp-for="u_name" type="text" id="form3" class="form-control validate" required>
+                        <label data-error="wrong" data-success="right" for="form3">نام کاربری</label>
+                    </div>
+
+                    <div class="md-form mb-4">
+                        <i class="fa fa-unlock-alt prefix grey-text"></i>
+                        <input asp-for="u_pass" type="password" id="form2" class="form-control validate" required>
+                        <label data-error="wrong" data-success="right" for="form2">کلمه عبور</label>
+                    </div>
+
+                </div>
+                <div class="modal-footer d-flex  justify-content-center">
+                    <button onclick="move_left" type="submit" class="btn btn-success btn-rounded">ورود به سامانه</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+    @*modal*@
+    <!--Main Navigation-->
+    <header>
+
+        <!--Navbar-->
+        @*<nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <div class="circle"></div>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+                        aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a id="nav_top" class="nav-link" href="#top">نخستین صفحه</a>
+                        </li>
+                        <li class="nav-item">
+                            <a  id="nav_ahdaf" class="nav-link" href="#ahdaf">اهداف<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="nav_khata" class="nav-link" href="#khata">کدهای خطا<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="nav_vahed" class="nav-link" href="#vahed">واحد های تابعه<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="nav_footer" class="nav-link" href="#footer">پشتیبانی</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>*@
+
+        
+
+        <!-- Intro Section -->
+        <div id="top" class="view jarallax" @*data-jarallax='{"speed": 0.2}'*@ style="background-image: url('../Img/background.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+            <div class="mask rgba-black-light">
+                <div class="container-fluid h-100 justify-content-center align-items-center">
+                    <div class="row " style="margin-top:100px">
+                        <div class="col-md-12">
+                            <div class="text-center" style="margin-top:120px">
+                                <h1 class="h1-reponsive white-text mt-3 font-weight-bold mb-3 wow fadeInDown" data-wow-delay="0.3s">
+                                    سامانه مانیتورینگ روزهای بستری بیماران
+                                </h1>
+                                <hr class="hr-light mt-4 wow fadeInDown" data-wow-delay="0.4s">
+                                <h5 class="text-uppercase mb-5 white-text wow fadeInDown" data-wow-delay="0.4s">
+                                    مرکز پزشکی، آموزشی و درمانی شهید مدرس 
+                                </h5>
+                                @* <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">دستورالعمل ها</a>*@
+                                <a class="btn btn-outline-white btn-rounded wow fadeInDown" data-toggle="modal" data-target="#modal_form" data-wow-delay="0.4s">ورود به سامانه</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </header>
+    <!--Main Navigation-->
+    <!--Main Layout-->
+    <!--<main>
+
+        <div class="container">
+            <div id="ahdaf" style="position:static;height:40px">
+            </div>-->
+            <!--Section: Blog v.3-->
+            <!--<section class="section extra-margins pb-3 text-center text-lg-left">-->
+                <!--Section heading-->
+                <!--<h2 style="color:black" class="font-weight-bold text-center h1 my-5">اهداف</h2>
+                <div class="row">
+                    <div class="col-md-12 col-lg-4">
+                        <div class="card shadow-lg" style="height:200px">
+                            <div class="card-body">
+                                <img style="width:100%;height:100%;margin:5px" src="~/Img/ahdaf1.jpg" class="rounded-circle" />
+                            </div>
+                        </div>
+                        <div style="text-align: center;margin-top: 20px;">
+                            <strong style="color:black">ارتقای ایمنی بیماران پرخطر</strong>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="card shadow-lg" style="height:200px">
+                            <div class="card-body">
+                                <img style="width:100%;height:100%;margin:5px" src="~/Img/ahdaf2.jpg" class="rounded-circle" />
+                            </div>
+                        </div>
+                        <div style="text-align: center;margin-top: 20px;">
+                            <strong style="color:black">پیشگیری از خطاهای ناسازگاری</strong>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <div class="card shadow-lg" style="height:200px">
+                            <div class="card-body">
+                                <img style="width:100%;height:100%;margin:5px" src="~/Img/ahdaf3.jpg" class="rounded-circle" />
+                            </div>
+                        </div>
+                        <div style="text-align: center;margin-top: 20px;">
+                            <strong style="color:black">ارائه خدمات درمانی با کیفیت</strong>
+                        </div>
+                    </div>
+                </div>
+
+            </section>-->
+            <!--Section: Blog v.3-->
+            <!--<hr class="mb-5">
+            <div id="khata" style="position:static;height:40px">
+            </div>
+            <div>-->
+                <!--Section: Blog v.2-->
+                <!--<section id="khata" class="section extra-margins text-center pb-3 ">-->
+
+                    <!--Section heading-->
+                    <!--<h2 style="color:black"  class="font-weight-bold text-center h1 my-5">کدهای خطا</h2>-->
+                    <!--Section description-->
+
+                    <!--<p class="text-right grey-text mb-5 mx-auto w-responsive" style="direction: rtl; text-align: justify !important; text-justify: inter-word !important;width:100%">
+                        کد1. انجام عمل جراحی به صورت اشتباه روی عضو سالم
+                        ___کد 2. انجام عمل جراحی به صورت  اشتباه روی بیمار دیگر
+                        ___کد 3. انجام عمل جراحی با روش اشتباه بر روی بیمار ( مثال: در بیماری که مبتلا به توده های متعدد بافتی در یک عضو از بدن است و می باید یکی از توده های بافتی را که اثر فشاری ایجاد کرده است برداشته شود و به اشتباه توده دیگری مورد عمل جراحی قرار می گیرد...)
+                        ___کد4 . جا گذاشتن هر گونه device   اعم از گاز و قیچی و پنس... در بدن
+                        ___کد 5. مرگ در حین عمل جراحی یا بلافاصله بعد از عمل در بیمار دارای وضعیت سلامت طبیعی( کلاس یک طبقه بندی ASA انجمن بیهوشی آمریکا (
+                        ___کد6 .تلقیح مصنوعی با دهنده ( DONOR ) اشتباه درزوجین نابارور
+                        ___کد7. مرگ یا ناتواتی جدی بیمار به دنبال هر گونه استفاده از دارو و تجهیزات آلوده میکروبی
+                        ___کد 8.  مرگ یا ناتوانی جدی بیمار به دنبال استفاده از دستگاه های آلوده (مثال: وصل دستگاه دیالیز HBS Ag  آنتی ژن مثبت به  بیمار HBS Ag  آنتی ژن منفی
+                        ___کد 9.  مرگ یا ناتوانی جدی بیمار به دنبال هر گونه آمبولی عروقی
+                        ___کد 10. ترخیص و تحویل نوزاد به شخص و یا اشخاص غیر از ولی قانونی
+                        ___کد11 .  مفقود شدن بیمار در زمان بستری که بیش از 4 ساعت طول بکشد ( مثال: زندانیان بستری....)
+                        ___کد12. خودکشی یا اقدام به خودکشی در مرکز درمانی
+                        ___کد 13. مرگ یا ناتوانی جدی بیمار به دنبال هر گونه اشتباه در تزریق نوع دارو،  دوزدارو ، زمان تزریق دارو،.....
+                        ___کد14. مرگ یا ناتوانی جدی مرتبط با واکنش همولیتیک به علت تزریق گروه خون اشتباه در فرآورده های خونی
+                        ___کد 15.  کلیه موارد مرگ یا عارضه مادر و نوزاد بر اثر زایمان طبیعی و یا سزارین
+                        ___کد 16. مرگ یا ناتوانی جدی به دنبال هیپوگلیسمی در مرکز درمانی
+                        ___کد 17. زخم بستر درجه 3 یا 4 بعد از پذیرش بیمار
+                        ___کد 18.  کرنیکتروس نوزاد ناشی از تعلل در درمان
+                        ___کد19. مرگ یا ناتوانی جدی بیمار به علت هر گونه دستکاری غیر اصولی ستون فقرات ( مثال: به دنبال فیزیوتراپی ..)
+                        ___کد20. مرگ یا ناتوانی جدی در اعضای تیم احیاء متعاقب هر گونه شوک الکتریکی به دنبال احیا بیمار که می تواند ناشی از اشکالات فنی تجهیزات باشد.
+                        ___کد21. حوادث مرتبط با استفاده اشتباه گازهای مختلف به بیمار ( اکسیژن با گاز های دیگر... )
+                        ___کد 22.سوختگی های به دنبال اقدامات درمانی مانند الکترود های اطاق عمل (مانند: سوختگی های بدن به دنبال جراحی قلب)
+                        ___کد23 .موارد مرتبط با محافظ و نگهدانده های اطراف تخت (مثال:گیر کردن اندام بیمار در محافظ، خرابی محافظ،..)
+                        ___کد24 .سقوط بیمار ( مثال:  سقوط در حین جابجایی بیمار در حین انتقال به بخش تصویر برداری، ، سقوط از پله ، ...)
+                        ___کد25 .موارد مرتبط با عدم رعایت و عدول از چارچوب اخلاق پزشکی
+                        ___کد 26. هرگونه آسیب فیزیکی ( ضرب و شتم و ...) وارده به بیمار
+                        ___کد27. ربودن بیمار
+                        ___کد28 .اصرار به تزریق داروی خاص خطر آفرین یا قطع تعمدی اقدامات درمانی توسط کادر درمان
+                    </p>-->
+
+                    <!--Grid row-->
+                    <!--<div id="vahed" style="position:static;height:40px">
+                    </div>
+                    <div id="vahed" class="row">-->
+
+                        <!--Grid column-->
+                        <!--<div class="col-lg-4 col-md-12 mb-4">-->
+                            <!--Featured image-->
+                            <!--<div class="view overlay z-depth-1 mb-2">
+                                <img src="~/Img/vezarat_behdasht.jpg" class="img-fluid rounded-circle"
+                                     alt="First sample image">
+                                <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                </a>
+                            </div>-->
+
+                            <!--Excerpt-->
+                            <!--<h4 style="color:black" class="mb-3 font-weight-bold">وزارت بهداشت</h4>
+                            <a target="_blank" href="https://behdasht.gov.ir/" class="btn btn-primary btn-rounded">اطلاعات بیشتر</a>
+                        </div>-->
+                        <!--Grid column-->
+                        <!--Grid column-->
+                        <!--<div class="col-lg-4 col-md-6 mb-4">-->
+                            <!--Featured image-->
+                            <!--<div class="view overlay z-depth-1 mb-2">
+                                <img src="~/Img/moavenat_darman.jpg" class="img-fluid rounded-circle" alt="Second sample image">
+                            </div>-->
+                            <!--Excerpt-->
+                            <!--<h4 style="color:black" class="mb-3 font-weight-bold">معاونت درمان</h4>
+                            <a target="_blank" href="https://behdasht.gov.ir/" class="btn btn-success btn-rounded">اطلاعات بیشتر</a>
+                        </div>-->
+                        <!--Grid column-->
+                        <!--Grid column-->
+                        <!--<div class="col-lg-4 col-md-6 mb-4">-->
+                            <!--Featured image-->
+                            <!--<div class="view overlay z-depth-1 mb-2">
+                                <img src="~/Img/hospital.jpg" class="img-fluid rounded-circle"
+                                     alt="Thrid sample image">
+                                <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                </a>
+                            </div>-->
+                            <!--Excerpt-->
+                            <!--<h4 style="color:black" class="mb-3 font-weight-bold">بیمارستان ها</h4>
+                            <a target="_blank" href="https://avab.behdasht.gov.ir/hospital/" class="btn btn-danger btn-rounded">اطلاعات بیشتر</a>
+                        </div>-->
+                        <!--Grid column-->
+
+                    <!--</div>-->
+                    <!--Grid row-->
+
+                <!--</section>
+            </div>-->
+            <!--Section: Blog v.2-->
+
+        <!--</div>
+
+    </main>-->
+    <!--Main Layout-->
+    <!--Footer-->
+    <!--<footer id="footer" class="page-footer pt-4 mt-4   text-center text-md-left">-->
+
+        <!--Footer Links-->
+        <!--<div class="container">
+            <div class="row text-center">-->
+
+                <!--First column-->
+                <!--<div class="col-md-3">
+                    <img src="~/Img/logo_hirad.gif" style="width:100px;height:100px" />
+                    <h5 class="text-uppercase font-weight-bold">پشتیبانی</h5>
+                    <p>شرکت ایده گستر هیراد خاورمیانه</p>
+                </div>-->
+                <!--/.First column-->
+                <!--<hr class="w-100 clearfix d-md-none">-->
+
+                <!--Second column-->
+                <!--<div class="col-md-2 ml-auto">
+                    <img src="~/Img/phone.png" style="width:100px;height:100px" />
+                    <h5 class="text-uppercase font-weight-bold">شماره تماس</h5>
+                    <ul class="list-unstyled">
+                        <li style="padding-right:0"><a href="#!">021-22297164</a></li>
+                    </ul>
+                </div>-->
+                <!--/.Second column-->
+                <!--<hr class="w-100 clearfix d-md-none">-->
+                <!--Third column-->
+                <!--<div class="col-md-2 ml-auto">
+                    <img src="~/Img/fax.jpg" style="width:100px;height:100px" class="rounded-circle" />
+                    <h5 class="text-uppercase font-weight-bold">فکس</h5>
+                    <ul class="list-unstyled" sty>
+                        <li style="padding-right:0"><a href="#!">021-77746341</a></li>
+                    </ul>
+                </div>-->
+                <!--/.Third column-->
+                <!--<hr class="w-100 clearfix d-md-none">-->
+                <!--Fourth column-->
+                <!--<div class="col-md-2 ml-auto">
+                    <img src="~/Img/email.jpg" style="width:100px;height:100px" class="rounded-circle" />
+                    <h5 class="text-uppercase font-weight-bold">پست الکترونیک</h5>
+                    <ul class="list-unstyled" style="text-align: -webkit-center">
+                        <li style="display: table-row;padding-right:0"><a target="_blank" href="http://Ig-hirad.ir">www.Ig-hirad.ir</a></li>
+                    </ul>
+                </div>-->
+                <!--/.Fourth column-->
+
+            <!--</div>
+        </div>-->
+        <!--/.Footer Links-->
+
+        <!--<hr>-->
+        <!--Copyright-->
+        <!--<div class="footer-copyright py-3 text-center">
+            <div class="container-fluid">
+                © 2021 Copyright: <a target="_blank" href="http://Ig-hirad.ir"> HIRAD </a>
+            </div>
+        </div>-->
+        <!--/.Copyright-->
+
+    <!--</footer>-->
+    <!--/.Footer-->
+    <!--  SCRIPTS  -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/mdb.min.js"></script>
+
+
+    <script>
+        $(document).ready(() => {
+            //*********************************************
+            //$("body").animate({ bottom: "0" }, 2500);
+            $("body").css('transform', 'scale(1)');
+            //*********************************************
+            new WOW().init();
+            //*********************************************
+            $("#nav_top").click(function () {
+                $('html, body').animate({
+                    scrollTop: $('#top').offset().top
+                }, 1000);
+            });
+            //*********************************************
+            $("#nav_ahdaf").click(function () {
+                $('html, body').animate({
+                    scrollTop: $('#ahdaf').offset().top
+                }, 1000);
+            });
+            //*********************************************
+            $("#nav_khata").click(function () {
+                $('html, body').animate({
+                    scrollTop: $('#khata').offset().top
+                }, 1000);
+            });
+            //*********************************************
+            $("#nav_vahed").click(function () {
+                $('html, body').animate({
+                    scrollTop: $('#vahed').offset().top
+                }, 1000);
+            });
+            //*********************************************
+            $("#nav_footer").click(function () {
+                $('html, body').animate({
+                    scrollTop: $('#footer').offset().top
+                }, 1000);
+            });
+            //*********************************************
+        });
+    </script>
+    <script>
+        function move_left() {
+            $("body").animate({ left: "-2000" });
+            $("form").submit();
+        }
+    </script>
+
+    @*cursor*@
+    <script>
+        const curso = document.querySelector(".cursor");
+        var timeout;
+
+        //cursor movement
+        document.addEventListener("mousemove", (e)=>{
+            let x = e.pageX;
+            let y = e.pageY;
+
+            curso.style.top = y + 'px';
+            curso.style.left = x + 'px';
+            curso.style.display = 'block';
+
+
+            //stop animation
+            function mouseStopped() {
+                curso.style.display = 'none';
+            }
+
+            //hide animation
+            clearTimeout(timeout);
+            timeout = setTimeout(mouseStopped, 1000);
+
+
+        });
+
+
+        //stop animation off the screen
+        document.addEventListener("mouseout", () => {
+            cursor.style.display = 'none';
+        });
+
+    </script>
+    @*cursor*@
+
+
+
+
+
+</body>
+
+</html>

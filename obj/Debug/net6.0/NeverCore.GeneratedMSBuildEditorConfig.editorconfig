@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NeverCore
+build_property.RootNamespace = NeverCore
+build_property.ProjectDir = D:\Projects\Core\frushgah\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\Core\frushgah
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/Core/frushgah/Views/bakhshes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFraHNoZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/bakhshes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFraHNoZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/bakhshes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFraHNoZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/bakhshes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFraHNoZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/jensiats/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcamVuc2lhdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/jensiats/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcamVuc2lhdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/jensiats/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcamVuc2lhdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/jensiats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcamVuc2lhdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/khatas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhdGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/khatas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhdGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/khatas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhdGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/khatas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nca2hhdGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/mobiles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9iaWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/mobiles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9iaWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/mobiles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9iaWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/mobiles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9iaWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/nevers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmV2ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/nevers/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmV2ZXJzXGRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/nevers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmV2ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/nevers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmV2ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/nevers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmV2ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/nevers/index_user.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbmV2ZXJzXGluZGV4X3VzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/Shared/_LayoutMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/users/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core/frushgah/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7xm2va73sx

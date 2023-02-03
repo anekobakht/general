@@ -1,0 +1,346 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Never Event</title>
+
+    <!-- Font Awesome -->
+    @* <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">*@
+    <!-- Bootstrap core CSS -->
+    <link href="~/MDB-Pro_4.19.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/MDB-Pro_4.19.1/css/bootstrap.min.css" rel="stylesheet">
+    @*pro*@
+    @*<link href="~/MDB-Pro_4.19.1/css/addons/datatables-select.min.css" rel="stylesheet">*@
+    <link href="~/MDB-Pro_4.19.1/css/addons/datatables-select2.min.css" rel="stylesheet">
+    @*<link href="~/MDB-Pro_4.19.1/css/addons/datatables.min.css" rel="stylesheet">*@
+    <link href="~/MDB-Pro_4.19.1/css/addons/datatables2.min.css" rel="stylesheet">
+    <link href="~/MDB-Pro_4.19.1/css/addons/directives.min.css" rel="stylesheet">
+    <link href="~/MDB-Pro_4.19.1/css/addons/flag.min.css" rel="stylesheet">
+    <link href="~/MDB-Pro_4.19.1/css/addons/jquery.zmd.hierarchical-display.min.css" rel="stylesheet">
+    <link href="~/MDB-Pro_4.19.1/css/addons/rating.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="~/MDB-Pro_4.19.1/css/mdb.min.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="~/PersianDate/PersianDatePicker.min.css" />
+    <link href="~/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/chart.js/Chart.min.css" rel="stylesheet">
+    <link href="~/chart.js/Chart.bundle.min.js" rel="stylesheet">
+
+
+    <style>
+
+        .wrapper {
+            height: 400px;
+        }
+
+
+
+        html,
+        body,
+        header,
+        .jarallax {
+            height: 100%;
+        }
+
+        input[type="time"]::-webkit-calendar-picker-indicator {
+            filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%);
+        }
+
+        h4 {
+            color: red !important;
+            text-shadow: 20px;
+        }
+
+
+        .btn:hover {
+            color: red !important;
+        }
+
+        label {
+            color: skyblue !important;
+        }
+
+        dt {
+            color: skyblue !important;
+        }
+
+        th {
+            color: skyblue !important;
+        }
+
+        .td_area {
+            width: 70vw !important;
+        }
+
+        input, select, textarea {
+            border-bottom: solid !important;
+            border-top-color: transparent !important;
+            border-left-color: transparent !important;
+            border-right-color: transparent !important;
+            font-size: small !important;
+            margin: 10px !important;
+            color: white !important;
+            background-color: transparent !important;
+        }
+
+
+
+            input:focus {
+                border-bottom-color: red !important;
+                border-top-color: transparent !important;
+                border-left-color: transparent !important;
+                border-right-color: transparent !important;
+                outline: none !important;
+            }
+
+            select:focus {
+                border-bottom-color: red !important;
+                border-top-color: transparent !important;
+                border-left-color: transparent !important;
+                border-right-color: transparent !important;
+                outline: none !important;
+            }
+
+        h1 {
+            letter-spacing: 2px;
+        }
+
+        h5 {
+            letter-spacing: 2px;
+        }
+
+        .hr-light {
+            border-top: 3px solid #fff;
+            width: 80px;
+        }
+
+        footer.page-footer {
+            background-color: #6f7782 !important;
+        }
+
+        .collapse.navbar-collapse {
+            direction: rtl !important;
+        }
+
+        #hirad_logo {
+            width: 150px;
+            height: 150px;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding-right: 50px;
+        }
+
+        .bg {
+            /* The image used */
+            background-image: url("../Img/loader.gif");
+            /* Full height */
+            height: 100%;
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .a_menu {
+            color: white !important;
+        }
+
+        a_menu:hover {
+            background-color: transparent !important;
+        }
+
+        /*table sort*/
+        table.dataTable thead .sorting:after,
+        table.dataTable thead .sorting:before,
+        table.dataTable thead .sorting_asc:after,
+        table.dataTable thead .sorting_asc:before,
+        table.dataTable thead .sorting_asc_disabled:after,
+        table.dataTable thead .sorting_asc_disabled:before,
+        table.dataTable thead .sorting_desc:after,
+        table.dataTable thead .sorting_desc:before,
+        table.dataTable thead .sorting_desc_disabled:after,
+        table.dataTable thead .sorting_desc_disabled:before {
+            bottom: .5em;
+        }
+        /*table sort*/
+
+
+        option {
+            color:black !important;
+        }
+    </style>
+
+</head>
+
+<body style="position:relative">
+    <div class="cursor"></div>
+    @if (ViewBag.er_auth == "1")
+    {
+        <script>
+            alert("نام کاربری یا کلمه عبور نادرست می باشد")
+        </script>
+    }
+
+    <!--Main Navigation-->
+    <header style="overflow:hidden">
+
+        <!--Navbar-->
+        <nav id="nav" class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <div class="circle"></div>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+                        aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+                    <ul class="navbar-nav mr-auto">
+                        @*<li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink1" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">
+                <i class="fa fa-user-o pl-2"></i>پروفایل
+            </a>
+            <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink1" style="text-align: -webkit-right;">
+                <a class="dropdown-item" href="#">
+                    <i class="fa fa-id-card-o pl-2" aria-hidden="true"></i>حساب کاربری
+                </a>
+                <a class="dropdown-item" href="#">
+                    <i class="fa fa-key pl-2" aria-hidden="true"></i>تغییر کلمه عبور
+                </a>
+                <a asp-controller="users" asp-action="login" class="dropdown-item">
+                    <i class="fa fa-window-close-o pl-2" aria-hidden="true"></i>خروج از برنامه
+                </a>
+            </div>
+        </li>*@
+                        <li class="nav-item">
+                            <a class="a_menu nav-link" asp-controller="nevers" asp-action="index_user">
+                                <i class="fa fa-pencil-square-o pl-2" aria-hidden="true"></i>ثبت خطا
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="a_menu nav-link" asp-controller="users" asp-action="login">
+                                <i class="fa fa-times pl-2" aria-hidden="true"></i>خروج از سامانه
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--Navbar END-->
+        <!-- Intro Section -->
+        <div id="top" class="view jarallax" @*data-jarallax='{"speed": 0.2}'*@ style="background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),url('../../Img/login_img1.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+            <div class="mask rgba-black-light">
+                <div id="main" class="container-fluid h-100 justify-content-center align-items-center" style="overflow:auto">
+                    <div class="row " style="margin-top:100px">
+                        <div class="col-md-12">
+                            <main style="direction:rtl;text-align:right;overflow:auto" role="main" @*style="overflow:scroll"*@ class="pb-3">
+                                <div class="container-fluid">
+                                    @RenderBody()
+                                </div>
+                            </main>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    @*jquery mask*@
+    <script type="text/javascript" src="~/input_mask/jquery.inputmask.min.js"></script>
+    <script type="text/javascript" src="~/jquery_mask/jquery.mask.min.js"></script>
+
+    @*jquery mask*@
+
+
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/jquery.min.js"></script>
+    @*persian Date*@
+    <script type="text/javascript" src="~/PersianDate/PersianDatePicker.min.js"></script>
+    @*persian Date*@
+
+
+
+    <script type="text/javascript" src="~/PersianDate/jquery.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/popper.min.js"></script>
+    @*datatable*@
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/addons/datatables.min.js"></script>
+    @*<script type="text/javascript" src="~/MDB-Pro_4.19.1/js/addons/datatables2.min.js"></script>*@
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="~/MDB-Pro_4.19.1/js/mdb.min.js"></script>
+    <script type="text/javascript" src="~/chart.js/Chart.min.js"></script>
+
+
+
+    @*jquery mask*@
+    <script type="text/javascript" src="~/input_mask/jquery.inputmask.min.js"></script>
+    @*jquery mask*@
+
+    <script>
+        $("#main").scroll(function () {
+            if (document.getElementById("main").scrollTop > 23) {
+                $("#nav").attr('style', 'background-color: black !important');
+            }
+            else {
+                $("#nav").attr('style', 'background-color: transparent !important');
+            }
+        });
+    </script>
+    @*table sort*@
+    <script>
+        $(document).ready(function () {
+            $('#dt').DataTable();
+            $('.dataTables_length').addClass('bs-select');
+        });
+    </script>
+    @*table sort*@
+
+    @*cursor*@
+    <script>
+        const curso = document.querySelector(".cursor");
+        var timeout;
+
+        //cursor movement
+        document.addEventListener("mousemove", (e) => {
+            let x = e.pageX;
+            let y = e.pageY;
+
+            curso.style.top = y + 'px';
+            curso.style.left = x + 'px';
+            curso.style.display = 'block';
+
+
+            //stop animation
+            function mouseStopped() {
+                curso.style.display = 'none';
+            }
+
+            //hide animation
+            clearTimeout(timeout);
+            timeout = setTimeout(mouseStopped, 1000);
+
+
+        });
+
+
+        //stop animation off the screen
+        document.addEventListener("mouseout", () => {
+            cursor.style.display = 'none';
+        });
+
+    </script>
+    @*cursor*@
+
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

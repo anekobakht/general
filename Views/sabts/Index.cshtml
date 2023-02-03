@@ -1,0 +1,184 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+<style>
+    .btn:hover{
+        transform:scale(1.2);
+    }
+
+</style>
+
+<div class="container-fluid" style="animation-name:rotateInLeft !important">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(72, 0, 255,0.1);text-align:center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center">
+                    <img class="card-img-top" src="~/Img/آموزش به بیمار.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:809" target="_blank" class="btn btn-outline-success btn-rounded">سامانه آموزش به بیمار</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(72, 0, 255,0.1);text-align:center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center">
+                    <img class="card-img-top" src="~/Img/pishnahad.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:804" target="_blank" class="btn btn-outline-success btn-rounded">نظام پیشنهادات بیمارستان</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color: rgb(72, 0, 255,0.1); text-align: center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/mosavabat.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:805" target="_blank" class="btn btn-outline-success btn-rounded">مصوبات</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color: rgb(72, 0, 255,0.1); text-align: center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/learn.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:801" target="_blank" class="btn btn-outline-success btn-rounded">سامانه آموزشی</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color: rgb(72, 0, 255,0.1); text-align: center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/never.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:803" target="_blank" class="btn btn-outline-success btn-rounded">ثبت خطای 28 گانه</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color: rgb(72, 0, 255,0.1); text-align: center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/sms.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:807" target="_blank" class="btn btn-outline-success btn-rounded">مدت اقامت</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color: rgb(72, 0, 255,0.1); text-align: center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/helpDesk.jpg" style="height:200px" />
+                    <a href="http://172.16.2.60:806" target="_blank" class="btn btn-outline-success btn-rounded">سامانه پشتیبانی</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(72, 0, 255,0.1);text-align:center">بیمارستان</div>
+                <div class="view view-cascade overlay" style="text-align:center">
+                    <img class="card-img-top" src="~/Img/zang_salamat.jpg" style="height:200px" />
+                    <a href="~/zang_salamat/ZangSalamat.msi" class="btn btn-outline-success btn-rounded" download>زنگ سلامت</a>
+                </div>
+            </div>
+        </div>
+        @*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*@
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center">
+                    <img class="card-img-top" src="~/Img/office.jpg" style="height:200px" />
+                    <a href="http://office.sbmu.ac.ir" target="_blank" class="btn btn-outline-info btn-rounded">اتوماسیون اداری</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center">
+                    <img class="card-img-top" src="~/Img/him.jpg" style="height:200px" />
+                    <a href="http://him.sbmu.ac.ir" target="_blank" class="btn btn-outline-info btn-rounded">HIM</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/never_uni.jpg" style="height:200px" />
+                    <a href="http://neverevent.sbmu.ac.ir" target="_blank" class="btn btn-outline-info btn-rounded">ثبت خطای 28 گانه</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/timex.jpg" style="height:200px" />
+                    <a href="https://timex.sbmu.ac.ir/" target="_blank" class="btn btn-outline-info btn-rounded">سامانه حضور و غیاب</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/karkonan.jpg" style="height:200px" />
+                    <a href="http://karkonan.sbmu.ac.ir/" target="_blank" class="btn btn-outline-info btn-rounded">سامانه کارکنان</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/refahi.jpg" style="height:200px" />
+                    <a href="https://refahi.sbmu.ac.ir" target="_blank" class="btn btn-outline-info btn-rounded">سامانه مدیریت رفاهی</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(255, 0, 0,0.1);text-align:center">ستاد دانشگاه</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/azmoon.jpg" style="height:200px" />
+                    <a href="http://azmoon.sbmu.ac.ir/" target="_blank" class="btn btn-outline-info btn-rounded">سامانه آزمون آنلاین</a>
+                </div>
+            </div>
+        </div>
+        @**************************************************************************************************@
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color:rgb(0, 255, 144,0.1);text-align:center">وزارت متبوع</div>
+                <div class="view view-cascade overlay" style="text-align:center">
+                    <img class="card-img-top" src="~/Img/suggest_vezarat.jpg" style="height:200px" />
+                    <a href="https://sus.behdasht.gov.ir" target="_blank" class="btn btn-outline-warning btn-rounded">نظام پیشنهادات</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card card-cascade wider reverse mb-4">
+                <div class="card-header text-white" style="background-color: rgb(0, 255, 144,0.1); text-align: center">وزارت متبوع</div>
+                <div class="view view-cascade overlay" style="text-align:center ">
+                    <img class="card-img-top" src="~/Img/refahi.jpg" style="height:200px" />
+                    <a href="https://hmdb.behdasht.gov.ir/mdb/mdbgrish.aspx" target="_blank" class="btn btn-outline-warning btn-rounded">سامانه بانک اطلاعات مدیران </a>
+                </div>
+            </div>
+        </div>
+        @**************************************************************************************************@
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+
+
+}

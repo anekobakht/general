@@ -1,0 +1,348 @@
+﻿@model IEnumerable<pishnahad.Models.never>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+
+
+<div id="content" style="position:relative;right:-3000px">
+
+    @*<div class="container-fluid">
+            <div class="card">
+                <div class="card-header">تعداد دانشجویان ثبت شده به تفکیک هر دانشگاه</div>
+                <div class="card-body">
+                    <div style="height: 500px">
+                        <canvas id="canvas1" width="400"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>*@
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="wrapper">
+                    <canvas id="canvas1"></canvas>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="wrapper">
+                    <canvas id="canvas2"></canvas>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="wrapper">
+                    <canvas id="canvas3"></canvas>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="wrapper">
+                    <canvas id="canvas4"></canvas>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+@section Scripts {
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(() => {
+            $("#content").animate({ right: "0" });
+            $(window).scrollTop($("#back").offset().top);
+        });
+    </script>
+    <script>
+        function move_back() {
+            $("#content").animate({ right: "-3000" });
+        }
+    </script>
+
+
+
+    <script>
+        function GetJSON_Simple() {
+            var resp = [];
+            $.ajax({
+                type: "GET",
+                url: '/nevers/chart01',
+                async: false,
+                contentType: "application/json",
+                success: function (data) {
+                    resp.push(data);
+                },
+                error: function (req, status, error) {
+                    alert("error");
+                }
+            });
+            return resp;
+        }
+        var simpleData = GetJSON_Simple();
+
+        var ctx = document.getElementById("canvas1")
+        ctx.height = 400
+        var lineChartData = {
+            labels: simpleData[0].myDate,
+
+            datasets: [{
+
+                fill: true,
+                data: simpleData[0].count,
+                backgroundColor: simpleData[0].backg,
+
+                yAxisID: 'y-axis-1',
+            }]
+        };
+        window.myLine = Chart.Bar(ctx, {
+            data: lineChartData,
+            options: {
+                tooltips: { enabled: true },
+                hover: {
+                    animationDuration: 10
+                },
+                animation: {
+                    onComplete: function () {
+                        var ctx = this.chart.ctx;
+                        ctx.textAlign = 'center';
+                        ctx.textBaseline = 'bottom';
+                        ctx.fillStyle = "#8a8d93";
+                        Chart.defaults.global.defaultFontColor = 'red';
+                        ctx.font = Chart.helpers.fontString(Chart.defaults.global.defaultFontFamily, 'normal', Chart.defaults.global.defaultFontFamily);
+                        this.data.datasets.forEach(function (dataset) {
+                            for (var i = 0; i < dataset.data.length; i++) {
+                                for (var key in dataset._meta) {
+                                    var model = dataset._meta[key].data[i]._model;
+                                    ctx.fillText(dataset.data[i], model.x, model.y - 5);
+                                }
+                            }
+                        });
+                    }
+                },
+                legend: {
+                    display: false
+                },
+                maintainAspectRatio: false,
+                responsive: true,
+                scaleFontColor: "#FFFFFF",
+                hoverMode: 'index',
+                stacked: true,
+                title: {
+                    display: true,
+                    text: 'به تفکیک جنسیت',
+                    fontFamily: 'font_nbt',
+                    fontSize: 15,
+                    fontColor: '#FFFFFF'
+                },
+                scales: {
+                    xAxes: [{
+                        gridLines: {
+                            display: false
+                        },
+                        ticks: {
+                            fontFamily: 'font_nbt',
+                            fontSize: 15,
+                            fontColor: '#FFFFFF'
+                        }
+                    }],
+                    yAxes: [{
+                        type: 'linear',
+                        display: true,
+                        position: 'left',
+                        id: 'y-axis-1',
+                        gridLines: {
+                            display: false
+                        },
+                        ticks: {
+                            beginAtZero: true,
+                            fontFamily: 'font_nbt',
+                            fontSize: 15,
+                            fontColor: '#FFFFFF'
+                        }
+                    }
+
+                    ],
+                }
+            }
+        });
+
+    </script>
+
+    <script>
+        function GetJSON_Simple() {
+            var resp = [];
+            $.ajax({
+                type: "GET",
+                url: '/nevers/chart02',
+                async: false,
+                contentType: "application/json",
+                success: function (data) {
+                    resp.push(data);
+                },
+                error: function (req, status, error) {
+                    alert("error");
+                }
+            });
+            return resp;
+        }
+        var simpleData = GetJSON_Simple();
+        var ctx = document.getElementById("canvas2")
+        ctx.height = 400
+        var lineChartData1 = {
+            labels: simpleData[0].myDate,
+            datasets: [{
+                data: simpleData[0].count,
+                backgroundColor: simpleData[0].backg,
+            }]
+        };
+        new Chart(document.getElementById("canvas2"), {
+            type: 'pie',
+
+            data: lineChartData1,
+            options: {
+                legend: {
+                    display: false,
+                    fontFamily: 'font_nbt',
+                    fontSize: 15
+                },
+                title: {
+                    display: false,
+                    text: 'تعداد دانشجویان ثبت نام کرده در هر دانشگاه'
+                },
+                maintainAspectRatio: false,
+            }
+        });
+
+    </script>
+
+    <script>
+        function GetJSON_Simple() {
+            var resp = [];
+            $.ajax({
+                type: "GET",
+                url: '/nevers/chart03',
+                async: false,
+                contentType: "application/json",
+                success: function (data) {
+                    resp.push(data);
+                },
+                error: function (req, status, error) {
+                    alert("error");
+                }
+            });
+            return resp;
+        }
+        var simpleData = GetJSON_Simple();
+        var ctx = document.getElementById("canvas3")
+        ctx.height = 400
+        var lineChartData1 = {
+            labels: simpleData[0].myDate,
+            datasets: [{
+                data: simpleData[0].count,
+                backgroundColor: simpleData[0].backg,
+            }]
+        };
+        new Chart(document.getElementById("canvas3"), {
+            type: 'polarArea',
+
+            data: lineChartData1,
+            options: {
+                legend: {
+                    display: false,
+                    fontFamily: 'font_nbt',
+                    fontSize: 15
+                },
+                title: {
+                    display: false,
+                    text: 'تعداد دانشجویان ثبت نام کرده در هر دانشگاه'
+                },
+                maintainAspectRatio: false,
+            }
+        });
+
+    </script>
+
+
+    <script>
+        function GetJSON_Simple() {
+            var resp = [];
+            $.ajax({
+                type: "GET",
+                url: '/nevers/chart04',
+                async: false,
+                contentType: "application/json",
+                success: function (data) {
+                    resp.push(data);
+                },
+                error: function (req, status, error) {
+                    alert("error");
+                }
+            });
+            return resp;
+        }
+        var simpleData = GetJSON_Simple();
+        var ctx = document.getElementById("canvas4")
+        ctx.height = 400
+        var lineChartData1 = {
+            labels: simpleData[0].myDate,
+            datasets: [{
+                data: simpleData[0].count,
+                fill: false,
+                borderColor: simpleData[0].backg,
+                tension: 0.1,
+            }]
+        };
+        new Chart(document.getElementById("canvas4"), {
+            type: 'line',
+
+            data: lineChartData1,
+            options: {
+                legend: {
+                    display: false,
+                    fontFamily: 'font_nbt',
+                    fontSize: 15
+                },
+                title: {
+                    display: false,
+                    text: 'تعداد دانشجویان ثبت نام کرده در هر دانشگاه'
+                },
+                scales: {
+                    xAxes: [{
+                        gridLines: {
+                            display: false
+                        },
+                        ticks: {
+                            fontFamily: 'font_nbt',
+                            fontSize: 15,
+                            fontColor: '#FFFFFF'
+                        }
+                    }],
+                    yAxes: [{
+                        type: 'linear',
+                        display: true,
+                        position: 'left',
+                        id: 'y-axis-1',
+                        gridLines: {
+                            display: false
+                        },
+                        ticks: {
+                            beginAtZero: true,
+                            fontFamily: 'font_nbt',
+                            fontSize: 15,
+                            fontColor: '#FFFFFF'
+                        }
+                    }
+
+                    ],
+                },
+                maintainAspectRatio: false,
+            }
+        });
+
+    </script>
+
+
+}

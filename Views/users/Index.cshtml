@@ -1,0 +1,93 @@
+﻿@model IEnumerable<frushgah.Models.v_user>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+
+<div id="content" style="position:relative;right:-3000px">
+    <h4>تعریف کاربری</h4>
+
+    <p>
+        <a class="btn btn-outline-success rounded-pill" onclick="move_back()" asp-action="Create" onclick="move_back()">مورد جدید</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.name_bakhsh)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.u_fname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.u_lname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.u_code_meli)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.u_email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.u_username)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.u_admin)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name_bakhsh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.u_fname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.u_lname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.u_code_meli)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.u_email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.u_username)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.u_admin)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" onclick="move_back()" asp-route-id="@item.id_user"><i class="fa fa-pencil text-warning fa-2x pl-2" aria-hidden="true"></i></a>
+                        <a asp-action="Delete" onclick="move_back()" asp-route-id="@item.id_user"><i class="fa fa-trash-o text-danger fa-2x pl-2" aria-hidden="true"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(() => {
+            $("#content").animate({ right: "0" });
+            $(window).scrollTop($("#back").offset().top);
+        });
+    </script>
+    <script>
+        function move_back() {
+            $("#content").animate({ right: "-3000" });
+        }
+    </script>
+
+}
+
+

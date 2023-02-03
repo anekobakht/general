@@ -1,0 +1,74 @@
+﻿@model pishnahad.Models.user
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+
+<div id="content" style="position:relative;right:-3000px">
+    <h4>ویرایش اطلاعات</h4>
+    <hr />
+    <form asp-action="Edit">
+        <div class="row">
+            <div class="col-lg-4">
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="id_user" />
+                <div class="form-group">
+                    <label asp-for="id_bakhsh" class="control-label"></label>
+                    <select id="id_bakhsh" name="id_bakhsh" asp-items="ViewBag.id_bakhsh"></select>
+                    <span asp-validation-for="id_bakhsh" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="name" class="control-label"></label>
+                    <input asp-for="name" class="form-control" required />
+                    <span asp-validation-for="name" class="text-danger"></span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="u_name" class="control-label"></label>
+                    <input asp-for="u_name" class="form-control" required />
+                    <span asp-validation-for="u_name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="u_pass" class="control-label"></label>
+                    <input type="password" asp-for="u_pass" class="form-control" required />
+                    <span asp-validation-for="u_pass" class="text-danger"></span>
+                </div>
+                @*<div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="u_admin" /> @Html.DisplayNameFor(model => model.u_admin)
+                    </label>
+                </div>*@
+                <div class="form-group">
+                    <input type="submit" value="ذخیره اطلاعات" class="btn btn-outline-success rounded-pill" onclick="move_back()" />
+                    <a class="btn btn-outline-primary rounded-pill" onclick="move_back()" asp-action="Index">بازگشت به لیست</a>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(() => {
+            $("#content").animate({ right: "0" });
+            $(window).scrollTop($("#back").offset().top);
+        });
+    </script>
+    <script>
+        function move_back() {
+            $("#form").submit(function (e) {
+                e.preventDefault();
+            });
+            if (span.show() != true) {
+                $("#content").animate({ right: "-3000" });
+                $("#form").submit();
+            }
+        }
+    </script>
+}

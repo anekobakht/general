@@ -1,0 +1,175 @@
+﻿@model pishnahad.Models.never
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+
+@*modal*@
+<form>
+    <div class="modal  fade" role="dialog" id="modal_form" tabindex="-1" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-white bg-danger text-center">
+                    <h4 class="modal-title w-100 text-success font-weight-bold">کد های خطا</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th style="width:10%">
+                                کد خطا
+                            </th>
+                            <th>
+                                عنوان خطا
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item1 in ViewBag.khata)
+                        {
+                            <tr>
+                                <td style="color:red;width:10%">
+                                    @item1.num_khata
+                                </td>
+                                <td style="color:black">
+                                    @item1.name_khata
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</form>
+@*modal*@
+
+<div id="content" style="position:relative;right:-3000px">
+    <h4>ویرایش اطلاعات</h4>
+    <a class="btn btn-outline-info rounded-pill" data-target="#modal_form" data-toggle="modal">نمایش کدهای خطا</a>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="id_never" />
+                @*<div class="form-group">
+                        <label asp-for="id_user" class="control-label"></label>
+                        <input asp-for="id_user" class="form-control" />
+                        <span asp-validation-for="id_user" class="text-danger"></span>
+                    </div>*@
+                <div class="form-group">
+                    <label asp-for="num_khata" class="control-label"></label>
+                    <select asp-for="num_khata" name="num_khata" id="num_khata" asp-items="ViewBag.num_khata" class="form-control" required></select>
+                    <span asp-validation-for="num_khata" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="demo_bimar_name_never" class="control-label"></label>
+                    <input asp-for="demo_bimar_name_never" class="form-control" required />
+                    <span asp-validation-for="demo_bimar_name_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="demo_jensiat_never" class="control-label"></label>
+                    <select asp-for="demo_jensiat_never" name="jensiat" id="jensiat" asp-items="ViewBag.jensiat" class="form-control" required></select>
+                    <span asp-validation-for="demo_jensiat_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="demo_sen_never" class="control-label"></label>
+                    <input min="0" max="150" asp-for="demo_sen_never" class="form-control" required />
+                    <span asp-validation-for="demo_sen_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="demo_date_morajee_never" class="control-label"></label>
+                    <input id="demo_date_morajee_never" asp-for="demo_date_morajee_never" class="form-control" required />
+                    <span asp-validation-for="demo_date_morajee_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="demo_date_voghu_never" class="control-label"></label>
+                    <input id="demo_date_voghu_never" asp-for="demo_date_voghu_never" class="form-control" required />
+                    <span asp-validation-for="demo_date_voghu_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="demo_saat_never" class="control-label"></label>
+                    <input type="time" asp-for="demo_saat_never" placeholder="hh:mm" data-slots="h" class="form-control" required />
+                    <span asp-validation-for="demo_saat_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    @Html.ActionLink("دانلود فایل", "download_file1", new { id = ViewBag.id_never })
+                    <label asp-for="peyvast1_never" class="control-label"></label>
+                    <div class="md-form">
+                        <div class="file-field">
+                            <div class="btn btn-outline-warning rounded-pill btn-sm float-left">
+                                <span>انتخاب فایل</span>
+                                <input id="peyvast2_never" name="peyvast2_never" type="file">
+                            </div>
+                            <div class="file-path-wrapper">
+                                <input class="file-path validate" type="text" placeholder="بارگذاری فایل">
+                            </div>
+                        </div>
+                    </div>
+                    <span asp-validation-for="peyvast1_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    @Html.ActionLink("دانلود فایل", "download_file2", new { id = ViewBag.id_never })
+                    <label asp-for="peyvast2_never" class="control-label"></label>
+                    <div class="md-form">
+                        <div class="file-field">
+                            <div class="btn btn-outline-warning rounded-pill btn-sm float-left">
+                                <span>انتخاب فایل</span>
+                                <input id="peyvast2_never" name="peyvast2_never" type="file">
+                            </div>
+                            <div class="file-path-wrapper">
+                                <input class="file-path validate" type="text" placeholder="بارگذاری فایل">
+                            </div>
+                        </div>
+                    </div>
+                    <span asp-validation-for="peyvast2_never" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="sharh_never" class="control-label"></label>
+                    <textarea cols="4" rows="4" asp-for="sharh_never" class="form-control"></textarea>
+                    <span asp-validation-for="sharh_never" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="ذخیره اطلاعات" class="btn btn-outline-success rounded-pill" onclick="move_back()" />
+                    <a class="btn btn-outline-primary rounded-pill" onclick="move_back()" asp-action="index_user">بازگشت به لیست</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(() => {
+            $("#content").animate({ right: "0" });
+            $(window).scrollTop($("#back").offset().top);
+        });
+    </script>
+    <script>
+        function move_back() {
+            $("#form").submit(function (e) {
+                e.preventDefault();
+            });
+            if (span.show() != true) {
+                $("#content").animate({ right: "-3000" });
+                $("#form").submit();
+            }
+        }
+    </script>
+    <script>
+        $("#demo_date_morajee_never").inputmask("9999/99/99");
+        $("#demo_date_voghu_never").inputmask("9999/99/99");
+    </script>
+
+}

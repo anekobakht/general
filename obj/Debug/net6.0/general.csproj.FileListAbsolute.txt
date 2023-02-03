@@ -1,0 +1,879 @@
+H:\nbt_software\general\bin\Debug\net6.0\appsettings.Development.json
+H:\nbt_software\general\bin\Debug\net6.0\Connected Services\AmootSMS\ConnectedService.json
+H:\nbt_software\general\bin\Debug\net6.0\appsettings.json
+H:\nbt_software\general\bin\Debug\net6.0\general.staticwebassets.runtime.json
+H:\nbt_software\general\bin\Debug\net6.0\general.exe
+H:\nbt_software\general\bin\Debug\net6.0\general.deps.json
+H:\nbt_software\general\bin\Debug\net6.0\general.runtimeconfig.json
+H:\nbt_software\general\bin\Debug\net6.0\general.dll
+H:\nbt_software\general\bin\Debug\net6.0\general.pdb
+H:\nbt_software\general\bin\Debug\net6.0\Chart.Mvc.Core.dll
+H:\nbt_software\general\bin\Debug\net6.0\ChartJSCore.dll
+H:\nbt_software\general\bin\Debug\net6.0\ClosedXML.dll
+H:\nbt_software\general\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+H:\nbt_software\general\bin\Debug\net6.0\ExcelNumberFormat.dll
+H:\nbt_software\general\bin\Debug\net6.0\Humanizer.dll
+H:\nbt_software\general\bin\Debug\net6.0\MessagePack.dll
+H:\nbt_software\general\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Build.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Xml.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\nbt_software\general\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\nbt_software\general\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\nbt_software\general\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\nbt_software\general\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.Common.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\nbt_software\general\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Core.dll
+H:\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.dll
+H:\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.IO.Packaging.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Private.ServiceModel.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Federation.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Http.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Security.dll
+H:\nbt_software\general\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\nbt_software\general\bin\Debug\net6.0\WebEssentials.AspNetCore.Pwa.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\nbt_software\general\obj\Debug\net6.0\general.csproj.AssemblyReference.cache
+H:\nbt_software\general\obj\Debug\net6.0\general.GeneratedMSBuildEditorConfig.editorconfig
+H:\nbt_software\general\obj\Debug\net6.0\general.AssemblyInfoInputs.cache
+H:\nbt_software\general\obj\Debug\net6.0\general.AssemblyInfo.cs
+H:\nbt_software\general\obj\Debug\net6.0\general.csproj.CoreCompileInputs.cache
+H:\nbt_software\general\obj\Debug\net6.0\general.MvcApplicationPartsAssemblyInfo.cs
+H:\nbt_software\general\obj\Debug\net6.0\general.MvcApplicationPartsAssemblyInfo.cache
+H:\nbt_software\general\obj\Debug\net6.0\general.RazorAssemblyInfo.cache
+H:\nbt_software\general\obj\Debug\net6.0\general.RazorAssemblyInfo.cs
+H:\nbt_software\general\obj\Debug\net6.0\staticwebassets.build.json
+H:\nbt_software\general\obj\Debug\net6.0\staticwebassets.development.json
+H:\nbt_software\general\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\nbt_software\general\obj\Debug\net6.0\scopedcss\bundle\general.styles.css
+H:\nbt_software\general\obj\Debug\net6.0\scopedcss\projectbundle\general.bundle.scp.css
+H:\nbt_software\general\obj\Debug\net6.0\general.csproj.CopyComplete
+H:\nbt_software\general\obj\Debug\net6.0\general.dll
+H:\nbt_software\general\obj\Debug\net6.0\refint\general.dll
+H:\nbt_software\general\obj\Debug\net6.0\general.pdb
+H:\nbt_software\general\obj\Debug\net6.0\general.genruntimeconfig.cache
+H:\nbt_software\general\obj\Debug\net6.0\ref\general.dll
+C:\nbt_software\general\bin\Debug\net6.0\appsettings.Development.json
+C:\nbt_software\general\bin\Debug\net6.0\Connected Services\AmootSMS\ConnectedService.json
+C:\nbt_software\general\bin\Debug\net6.0\appsettings.json
+C:\nbt_software\general\bin\Debug\net6.0\general.staticwebassets.runtime.json
+C:\nbt_software\general\bin\Debug\net6.0\general.exe
+C:\nbt_software\general\bin\Debug\net6.0\general.deps.json
+C:\nbt_software\general\bin\Debug\net6.0\general.runtimeconfig.json
+C:\nbt_software\general\bin\Debug\net6.0\general.dll
+C:\nbt_software\general\bin\Debug\net6.0\general.pdb
+C:\nbt_software\general\bin\Debug\net6.0\Chart.Mvc.Core.dll
+C:\nbt_software\general\bin\Debug\net6.0\ChartJSCore.dll
+C:\nbt_software\general\bin\Debug\net6.0\ClosedXML.dll
+C:\nbt_software\general\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\nbt_software\general\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\nbt_software\general\bin\Debug\net6.0\Humanizer.dll
+C:\nbt_software\general\bin\Debug\net6.0\MessagePack.dll
+C:\nbt_software\general\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Build.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\nbt_software\general\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\nbt_software\general\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\nbt_software\general\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\nbt_software\general\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.Common.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\nbt_software\general\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Core.dll
+C:\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.dll
+C:\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Federation.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\nbt_software\general\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\nbt_software\general\bin\Debug\net6.0\WebEssentials.AspNetCore.Pwa.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\nbt_software\general\obj\Debug\net6.0\general.csproj.AssemblyReference.cache
+C:\nbt_software\general\obj\Debug\net6.0\general.GeneratedMSBuildEditorConfig.editorconfig
+C:\nbt_software\general\obj\Debug\net6.0\general.AssemblyInfoInputs.cache
+C:\nbt_software\general\obj\Debug\net6.0\general.AssemblyInfo.cs
+C:\nbt_software\general\obj\Debug\net6.0\general.csproj.CoreCompileInputs.cache
+C:\nbt_software\general\obj\Debug\net6.0\general.MvcApplicationPartsAssemblyInfo.cs
+C:\nbt_software\general\obj\Debug\net6.0\general.MvcApplicationPartsAssemblyInfo.cache
+C:\nbt_software\general\obj\Debug\net6.0\general.RazorAssemblyInfo.cache
+C:\nbt_software\general\obj\Debug\net6.0\general.RazorAssemblyInfo.cs
+C:\nbt_software\general\obj\Debug\net6.0\staticwebassets.build.json
+C:\nbt_software\general\obj\Debug\net6.0\staticwebassets.development.json
+C:\nbt_software\general\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\nbt_software\general\obj\Debug\net6.0\scopedcss\bundle\general.styles.css
+C:\nbt_software\general\obj\Debug\net6.0\scopedcss\projectbundle\general.bundle.scp.css
+C:\nbt_software\general\obj\Debug\net6.0\general.csproj.CopyComplete
+C:\nbt_software\general\obj\Debug\net6.0\general.dll
+C:\nbt_software\general\obj\Debug\net6.0\refint\general.dll
+C:\nbt_software\general\obj\Debug\net6.0\general.pdb
+C:\nbt_software\general\obj\Debug\net6.0\general.genruntimeconfig.cache
+C:\nbt_software\general\obj\Debug\net6.0\ref\general.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\appsettings.Development.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\appsettings.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Connected Services\AmootSMS\ConnectedService.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\general.staticwebassets.runtime.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\general.exe
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\general.deps.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\general.runtimeconfig.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\general.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\general.pdb
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Chart.Mvc.Core.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ChartJSCore.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ClosedXML.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Humanizer.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\MessagePack.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.IdentityModel.Xml.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.Common.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Core.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\NWebsec.AspNetCore.Mvc.TagHelpers.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Private.ServiceModel.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Federation.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Http.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.ServiceModel.Security.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\WebEssentials.AspNetCore.Pwa.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.csproj.AssemblyReference.cache
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.AssemblyInfoInputs.cache
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.AssemblyInfo.cs
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.csproj.CoreCompileInputs.cache
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.MvcApplicationPartsAssemblyInfo.cs
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.MvcApplicationPartsAssemblyInfo.cache
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.RazorAssemblyInfo.cache
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.RazorAssemblyInfo.cs
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\staticwebassets.build.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\staticwebassets.development.json
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\scopedcss\bundle\general.styles.css
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\scopedcss\projectbundle\general.bundle.scp.css
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.csproj.CopyComplete
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\refint\general.dll
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.pdb
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\general.genruntimeconfig.cache
+D:\Developed\کامپیوتر بیمارستان2\nbt_software\general\obj\Debug\net6.0\ref\general.dll

@@ -1,0 +1,29 @@
+{
+  "name": "ثبت خطای 28 گانه",
+  "short_name": "ثبت خطای 28 گانه",
+  "description": "نرم افزار ثبت خطای 28 گانه بیمارستان مدرس",
+  "icons": [
+    {
+      "src": "Img/icons/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/Img/icons/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Img/icons/168x168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "Img/icons/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}

@@ -1,0 +1,113 @@
+﻿@model pishnahad.Models.never
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div id="content" style="position:relative;right:-3000px">
+    <h4>آیا از حذف اطلاعات اطمینان دارید؟</h4>
+    <div>
+       
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.num_khata)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.num_khata)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.demo_bimar_name_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.demo_bimar_name_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.demo_jensiat_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.demo_jensiat_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.demo_sen_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.demo_sen_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.demo_date_morajee_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.demo_date_morajee_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.demo_date_voghu_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.demo_date_voghu_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.demo_saat_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.demo_saat_never)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.peyvast1_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.peyvast1_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.peyvast1_kind_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.peyvast1_kind_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.peyvast2_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.peyvast2_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.peyvast2_kind_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.peyvast2_kind_never)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.sharh_never)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.sharh_never)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="id_never" />
+            <input type="submit" value="حذف اطلاعات" class="btn btn-outline-danger rounded-pill" onclick="move_back()" />
+            <a onclick="move_back()" class="btn btn-outline-primary rounded-pill" asp-action="index_user">بازگشت به لیست</a>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(() => {
+            $("#content").animate({ right: "0" });
+            $(window).scrollTop($("#back").offset().top);
+        });
+    </script>
+    <script>
+        function move_back() {
+            $("#content").animate({ right: "-3000" });
+        }
+    </script>
+
+}
